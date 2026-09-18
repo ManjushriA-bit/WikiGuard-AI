@@ -1,0 +1,6 @@
+kagglehub[pandas-datasets]
+pandas
+numpy
+scikit-learn
+pyarrow
+nbformat
