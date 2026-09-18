@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Dataset files
+*.parquet
+*.zip
+*.7z
+
+# Local outputs
+*.csv
+*.json
